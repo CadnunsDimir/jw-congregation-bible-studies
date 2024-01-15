@@ -1,4 +1,4 @@
-package org.cadnusdevs.sandroid.jwcongbiblestudies
+package org.cadnunsdevs.android.jwcongbiblestudies
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package org.cadnusdevs.sandroid.jwcongbiblestudies
+package org.cadnunsdevs.android.jwcongbiblestudies
 
 import android.os.Bundle
 import android.view.Menu
@@ -11,7 +11,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
-import org.cadnusdevs.sandroid.jwcongbiblestudies.databinding.ActivityMainBinding
+import org.cadnunsdevs.android.jwcongbiblestudies.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

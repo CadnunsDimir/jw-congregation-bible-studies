@@ -1,4 +1,4 @@
-package org.cadnusdevs.sandroid.jwcongbiblestudies.ui.slideshow
+package org.cadnunsdevs.android.jwcongbiblestudies.ui.slideshow
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'org.cadnusdevs.sandroid.jwcongbiblestudies'
+    namespace 'org.cadnunsdevs.android.jwcongbiblestudies'
     compileSdk 34
 
     defaultConfig {
-        applicationId "org.cadnusdevs.sandroid.jwcongbiblestudies"
+        applicationId "org.cadnunsdevs.android.jwcongbiblestudies"
         minSdk 21
         targetSdk 34
         versionCode 1
